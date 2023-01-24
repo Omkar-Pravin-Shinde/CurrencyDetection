@@ -1,0 +1,55 @@
+proj/currency/org/recognize/env/ImageUtils.java
+ proj.currency.org.recognize.env.ImageUtils
+proj/currency/org/recognize/SplashActivity.java
+ proj.currency.org.recognize.SplashActivity
+ proj.currency.org.recognize.SplashActivity$1
+proj/currency/org/recognize/TensorFlowImageClassifier.java
+ proj.currency.org.recognize.TensorFlowImageClassifier
+ proj.currency.org.recognize.TensorFlowImageClassifier$1
+proj/currency/org/recognize/env/Size.java
+ proj.currency.org.recognize.env.Size
+proj/currency/org/recognize/RecognitionScoreView.java
+ proj.currency.org.recognize.RecognitionScoreView
+proj/currency/org/recognize/CameraConnectionFragment.java
+ proj.currency.org.recognize.CameraConnectionFragment
+ proj.currency.org.recognize.CameraConnectionFragment$1
+ proj.currency.org.recognize.CameraConnectionFragment$2
+ proj.currency.org.recognize.CameraConnectionFragment$3
+ proj.currency.org.recognize.CameraConnectionFragment$4
+ proj.currency.org.recognize.CameraConnectionFragment$5
+ proj.currency.org.recognize.CameraConnectionFragment$CompareSizesByArea
+ proj.currency.org.recognize.CameraConnectionFragment$ConnectionCallback
+ proj.currency.org.recognize.CameraConnectionFragment$ErrorDialog
+ proj.currency.org.recognize.CameraConnectionFragment$ErrorDialog$1
+proj/currency/org/recognize/env/Logger.java
+ proj.currency.org.recognize.env.Logger
+proj/currency/org/recognize/MSCognitiveServicesClassifier.java
+ proj.currency.org.recognize.MSCognitiveServicesClassifier
+proj/currency/org/recognize/Classifier.java
+ proj.currency.org.recognize.Classifier
+ proj.currency.org.recognize.Classifier$Recognition
+proj/currency/org/recognize/env/BorderedText.java
+ proj.currency.org.recognize.env.BorderedText
+proj/currency/org/recognize/env/SplitTimer.java
+ proj.currency.org.recognize.env.SplitTimer
+proj/currency/org/recognize/ClassifierActivity.java
+ proj.currency.org.recognize.ClassifierActivity
+ proj.currency.org.recognize.ClassifierActivity$1
+ proj.currency.org.recognize.ClassifierActivity$2
+ proj.currency.org.recognize.ClassifierActivity$2$1
+proj/currency/org/recognize/CameraActivity.java
+ proj.currency.org.recognize.CameraActivity
+ proj.currency.org.recognize.CameraActivity$1
+ proj.currency.org.recognize.CameraActivity$2
+proj/currency/org/recognize/LegacyCameraConnectionFragment.java
+ proj.currency.org.recognize.LegacyCameraConnectionFragment
+ proj.currency.org.recognize.LegacyCameraConnectionFragment$1
+proj/currency/org/recognize/ResultsView.java
+ proj.currency.org.recognize.ResultsView
+proj/currency/org/recognize/AutoFitTextureView.java
+ proj.currency.org.recognize.AutoFitTextureView
+proj/currency/org/recognize/OverlayView.java
+ proj.currency.org.recognize.OverlayView
+ proj.currency.org.recognize.OverlayView$DrawCallback
+proj/currency/org/recognize/BuildConfig.java
+ proj.currency.org.recognize.BuildConfig

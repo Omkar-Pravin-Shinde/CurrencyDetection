@@ -1,0 +1,66 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="demo.tensorflow.org.customvision_sample"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="22"
+8-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.CAMERA" />
+11-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:5:5-65
+11-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:5:22-62
+12
+13    <uses-feature android:name="android.hardware.camera" />
+13-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:7:5-60
+13-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:7:19-57
+14    <uses-feature android:name="android.hardware.camera.autofocus" />
+14-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:8:5-70
+14-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:8:19-67
+15
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+16-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:10:5-81
+16-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:10:22-78
+17    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+18    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+19
+20    <application
+20-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:12:5-29:19
+21        android:allowBackup="true"
+21-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:13:9-35
+22        android:appComponentFactory="android.support.v4.app.CoreComponentFactory"
+22-->[com.android.support:support-compat:28.0.0] C:\Users\vaibhav\.gradle\caches\transforms-2\files-2.1\2a6c121eda6c2cbe33230f54b72bbbd4\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+23        android:debuggable="true"
+24        android:label="@string/app_name"
+24-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:14:9-41
+25        android:supportsRtl="true"
+25-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:15:9-35
+26        android:theme="@style/AppTheme" >
+26-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:16:9-40
+27        <activity android:name="proj.currency.org.recognize.SplashActivity" >
+27-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:17:9-23:20
+27-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:17:19-76
+28            <intent-filter>
+28-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:18:13-22:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:19:17-69
+29-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:19:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:21:17-77
+31-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:21:27-74
+32            </intent-filter>
+33        </activity>
+34        <activity
+34-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:24:9-28:20
+35            android:name="proj.currency.org.recognize.ClassifierActivity"
+35-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:25:13-74
+36            android:screenOrientation="portrait" >
+36-->C:\Users\vaibhav\AndroidStudioProjects\currencyDetector\app\src\main\AndroidManifest.xml:26:13-49
+37        </activity>
+38    </application>
+39
+40</manifest>

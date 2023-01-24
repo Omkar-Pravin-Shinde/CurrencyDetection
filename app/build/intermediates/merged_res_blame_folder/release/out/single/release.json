@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_camera.xml.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\layout_camera_connection_fragment.xml.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\layout\\camera_connection_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\drawable_round.xml.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\drawable\\round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\vaibhav\\AndroidStudioProjects\\currencyDetector\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    }
+]
